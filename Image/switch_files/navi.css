@@ -1,0 +1,18 @@
+.navi_Category_Selected {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(../images/sideNavCategorySelectedBg.gif); COLOR: #aa0000
+}
+.navi_Category_Unselected {
+	FONT-WEIGHT: normal; BACKGROUND-IMAGE: url(../images/sideNavCategoryBg.gif); COLOR: #444444
+}
+.navi_Category_Item {
+	HEIGHT: 25px; TEXT-ALIGN: left
+}
+.navi_ItemName {
+	VERTICAL-ALIGN: middle; COLOR: #404040
+}
+.navi_Item_Selected {
+	BACKGROUND-COLOR: #d3eb9a
+}
+.navi_Item_Unselected {
+	
+}

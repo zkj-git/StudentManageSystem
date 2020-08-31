@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode title="主页" url="index.aspx">
+      <siteMapNode title="教师信息管理" url="teacher.aspx">
+        <siteMapNode title="教师详细信息" url="teacherlist.aspx" />
+        <siteMapNode title="教师信息添加" url="addteacher.aspx" />     
+      </siteMapNode>
+      <siteMapNode title="学生信息管理" url="student.aspx">
+        <siteMapNode title="学生信息修改" url="Editstu.aspx"/>
+          <siteMapNode title="学生信息添加" url="addstu.aspx" />
+          <siteMapNode title="学生所在院系资料" url="department.aspx" />
+          <siteMapNode title="学生所在专业资料" url="speciality.aspx" />      
+      </siteMapNode>
+      <siteMapNode title="课程资料管理" url="course.aspx">       
+          <siteMapNode title="课程资料添加" url="addcourse.aspx" />
+      </siteMapNode>
+      <siteMapNode title="班级资料管理" url="class.aspx">
+        <siteMapNode title="班级资料添加" url="addclass.aspx" />
+      </siteMapNode>
+      <siteMapNode title="学生成绩查询" url="grade.aspx">
+        <siteMapNode title="学生成绩录入" url="addgrade.aspx" />
+      </siteMapNode>
+    </siteMapNode>
+  </siteMap>

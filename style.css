@@ -1,0 +1,67 @@
+.pager{color:red;} 
+
+.table {
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-left-color: #000000;
+}
+.table TD{
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+}
+
+
+A.exit:link{
+    COLOR:#000000; TEXT-DECORATION: none
+}
+A.exit:active {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.exit:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.exit:hover {
+	TEXT-DECORATION: none;
+	color: #FFFFFF;
+}
+
+A:link {
+	COLOR:#000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: none;
+	color: #000000;
+}
+BODY 
+{FONT-SIZE: 12px;margin-top: 0px;margin-bottom: 0px;
+}
+td
+{FONT-SIZE: 12px;
+}
+.text{ BACKGROUND-COLOR: #ffffff;border:0}
+#form1 #loinbody {
+	border: thin solid #009900;
+}
+
+#form1 tabletitle {
+	background-color: #009900;
+}
+#table1 {
+	border: thin solid #009900;
+}
+#form1 table {
+	border: thin solid #D4D0C8;
+}

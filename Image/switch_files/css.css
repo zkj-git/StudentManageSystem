@@ -1,0 +1,93 @@
+.body {
+	SCROLLBAR-FACE-COLOR: #0093b9; SCROLLBAR-HIGHLIGHT-COLOR: #0093b9; SCROLLBAR-SHADOW-COLOR: #0093b9; SCROLLBAR-3DLIGHT-COLOR: #a0eaff; SCROLLBAR-ARROW-COLOR: #a0eaff; SCROLLBAR-TRACK-COLOR: #a0eaff; SCROLLBAR-DARKSHADOW-COLOR: #00556c
+}
+.font {
+	FONT: 9pt "Verdana", "Arial", "Helvetica", "sans-serif", "??"; COLOR: #333333
+}
+.box-gray {
+	BORDER-TOP: #ffffff 1px solid; BACKGROUND: #e4e6eb; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #b5b5b5 1px solid
+}
+.box-white {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #b5b5b5 1px solid; BACKGROUND: #ffffff; BORDER-LEFT: #b5b5b5 1px solid; BORDER-BOTTOM: #ffffff 1px solid
+}
+.box-tint {
+	BORDER-RIGHT: #b5b5b5 1px solid; BORDER-TOP: #ffffff 1px solid; BACKGROUND: #f2f3f5; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #b5b5b5 1px solid
+}
+.box-blue {
+	BORDER-RIGHT: #285382 1px solid; BORDER-TOP: #6497ce 1px solid; BACKGROUND: #3872b2; BORDER-LEFT: #6497ce 1px solid; BORDER-BOTTOM: #285382 1px solid
+}
+.font-white {
+	FONT: 9pt "Verdana", "Arial", "Helvetica", "sans-serif", "??"; COLOR: #ffffff
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: "??", "Verdana", "Arial", "Helvetica", "sans-serif"
+}
+.fig {
+	FONT: 9px "Verdana", "Arial", "Helvetica", "sans-serif", "??"
+}
+.rows1 {
+	BACKGROUND: #ffffff; BORDER-BOTTOM: #dddddd 1px solid
+}
+.rows2 {
+	BACKGROUND: #f5f5f5; BORDER-BOTTOM: #dddddd 1px solid
+}
+.rows3 {
+	BACKGROUND: #999999; BORDER-BOTTOM: #dddddd 1px solid
+}
+.textfield {
+	BORDER-RIGHT: #7c859c 1px solid; BORDER-TOP: #7c859c 1px solid; BACKGROUND: #ffffff; FONT: 12px "Verdana", "Arial", "Helvetica", "sans-serif", "??"; BORDER-LEFT: #7c859c 1px solid; BORDER-BOTTOM: #7c859c 1px solid
+}
+.submit {
+	BORDER-RIGHT: #737c95 1px solid; BORDER-TOP: #737c95 1px solid; BACKGROUND: #969daf; FONT: 12px "Verdana", "Arial", "Helvetica", "sans-serif", "??"; BORDER-LEFT: #737c95 1px solid; COLOR: #ffffff; PADDING-TOP: 0px; BORDER-BOTTOM: #737c95 1px solid; HEIGHT: 20px
+}
+A:link {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #cc3300; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+.lin24 {
+	LINE-HEIGHT: 24px
+}
+.lin28 {
+	LINE-HEIGHT: 28px
+}
+.font-blue {
+	COLOR: #0033ff
+}
+.font-14 {
+	FONT-SIZE: 14px; COLOR: #576077
+}
+.active-image-txt {
+	BACKGROUND: url(icons.png) -20px 50%
+}
+.active-image-htm {
+	BACKGROUND: url(icons.png) -40px 50%
+}
+.active-image-xls {
+	BACKGROUND: url(icons.png) -60px 50%
+}
+.active-image-doc {
+	BACKGROUND: url(icons.png) -80px 50%
+}
+.active-image-pdf {
+	BACKGROUND: url(icons.png) -100px 50%
+}
+.active-image-xml {
+	BACKGROUND: url(icons.png) -120px 50%
+}
+.active-image-msi {
+	BACKGROUND: url(icons.png) -140px 50%
+}
+.active-image-chm {
+	BACKGROUND: url(icons.png) -160px 50%
+}
+.active-box-image {
+	BACKGROUND-REPEAT: no-repeat
+}

@@ -1,0 +1,69 @@
+TABLE {
+	FONT-SIZE: 12px; COLOR: #8f8f8f; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A.a01 {
+	FONT-SIZE: 12px; COLOR: #202020; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A.a01:hover {
+	FONT-SIZE: 12px; COLOR: #202020; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: underline
+}
+A.a02 {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A.a02:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: underline
+}
+A.a03 {
+	FONT-SIZE: 12px; FILTER: Shadow(Color=#8B0101, Direction=90); COLOR: #166ae9; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A.a03:hover {
+	FONT-SIZE: 12px; COLOR: #166ae9; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: underline
+}
+A.a04 {
+	FONT-SIZE: 12px; FILTER: Shadow(Color=#8B0101, Direction=90); COLOR: #ffffff; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A.a04:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: underline
+}
+A.a05 {
+	FONT-SIZE: 12px; FILTER: Shadow(Color=#8B0101, Direction=90); COLOR: #c23886; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A.a05:hover {
+	FONT-SIZE: 12px; COLOR: #c23886; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: underline
+}
+A {
+	FONT-SIZE: 12px; COLOR: #202020; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: underline
+}
+.font1 {
+	FONT-SIZE: 12px; COLOR: #0667c9; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+.font2 {
+	FONT-SIZE: 12px; COLOR: #202020; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+.font3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #202020; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+.font4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #c23886; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+.font5 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12px; COLOR: #e87101; LINE-HEIGHT: 20px; FONT-FAMILY: "新宋体"; TEXT-DECORATION: none
+}
+.bd {
+	BORDER-RIGHT: #bdbdbd 1px solid; BORDER-TOP: #bdbdbd 1px solid; BORDER-LEFT: #bdbdbd 1px solid; BORDER-BOTTOM: #bdbdbd 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.bd1 {
+	BORDER-RIGHT: #afafaf 1px solid; BORDER-TOP: #afafaf 1px solid; BORDER-LEFT: #afafaf 1px solid; BORDER-BOTTOM: #afafaf 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.menuItem:hover {
+	TEXT-DECORATION: none
+}
+.menuItem:link {
+	TEXT-DECORATION: none
+}
+.menuItem:visited {
+	TEXT-DECORATION: none
+}
